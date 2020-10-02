@@ -1,0 +1,22 @@
+{
+  "name": "curve-simple-router",
+  "version": "1.0.0",
+  "description": "A router for finding the best curve pool for simple swaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curve",
+    "curve.fi",
+    "curvefi",
+    "curve.finance",
+    "ethereum"
+  ],
+  "author": "Spyros",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "web3": "^1.3.0"
+  }
+}
