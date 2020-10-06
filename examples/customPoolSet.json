@@ -1,0 +1,26 @@
+[
+  {
+    "poolAddress": "0xa2b47e3d5c44877cca798226b7b8118f9bfb7a56",
+    "coins": [
+      "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+      "0x39aa39c021dfbae8fac545936693ac917d5e7563"
+    ],
+    "underlying": [
+      "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ]
+  },
+  {
+    "poolAddress": "0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c",
+    "coins": [
+      "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+      "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+      "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    ],
+    "underlying": [
+      "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    ]
+  }
+]
