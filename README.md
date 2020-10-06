@@ -86,7 +86,9 @@ Once you have your fetcher instantiated, you can fetch prices like so:
 ```
 let prices = await fetcher.getPoolPrices(swapFrom, swapTo, '1000000000000000000000');
 
-console.log(prices);
+prices.forEach(
+    pool => console.log(`Pool ${pool.poolAddress}: ${pool.price.toNumber()}`)
+)
 ```
 
 Prices are returned as a [BigNumber](https://github.com/MikeMcl/bignumber.js/) object
