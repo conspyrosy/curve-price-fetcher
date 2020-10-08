@@ -1,3 +1,3 @@
-module.exports = (str) => {
-    return `npm ${str} npm`;
-}
+const router = require("main/fetcher");
+
+module.exports = router;
