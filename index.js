@@ -1,3 +1,3 @@
-const router = require("main/fetcher");
+const router = require("./main/fetcher");
 
 module.exports = router;
