@@ -1,6 +1,6 @@
 {
   "name": "curve-price-fetcher",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A utility for fetching prices of swaps on curve finance",
   "main": "index.js",
   "scripts": {
