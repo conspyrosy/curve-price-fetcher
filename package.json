@@ -1,6 +1,6 @@
 {
   "name": "curve-price-fetcher",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A utility for fetching prices of swaps on curve finance",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "bignumber.js": "^9.0.1",
-    "web3": "^1.3.0"
+    "web3": "^1.3.0",
+    "web3-batch-request": "^1.0.0"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"

@@ -2,7 +2,7 @@ const BigNumber = require('bignumber.js');
 
 const POOL_ABI = require('./../abi/pool.json');
 const pools = require('../constants/poolMetaData.json');
-const batchRequest = require('./../utils/batchRequest');
+const batchRequest = require('web3-batch-request');
 
 /**
  * Class that holds pool meta data once created (or fetched) and has methods to fetch prices
