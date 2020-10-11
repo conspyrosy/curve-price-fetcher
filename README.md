@@ -100,7 +100,7 @@ initially this was a quick and dirty script for a project i'm working on but the
 - take gas into account. the gas fees vary based on the underlying assets (quite vastly) due to different implementations, so the best price is not necessarily the best price.
 - add support for performing swap
 - route through multiple pools. for very large orders it will be more cost efficient to use multiple.
-- fetch pool addresses from curve registry instead of json file (i dont think curve have a registry at this time)
+- fetch pool addresses from curve registry instead of json file. see here for details - https://www.curve.fi/contracts
 
 ### Examples
 
